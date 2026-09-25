@@ -5,11 +5,7 @@
   <strong>Cyber Security Enthusiast • Bug Bounty Hunter • Full Stack Developer</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rishi0x1">
-    <img src="https://komarev.com/ghpvc/?username=rishi0x1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+
 
 ---
 
