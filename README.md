@@ -33,7 +33,7 @@ Currently, I'm focused on improving my development skills while building a stron
 
 ## 🎯 What I'm Currently Learning
 
-<p> <img src="https://skillicons.dev/icons?i=c,java,python,javascript" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=c,java,python" /> </p>
 <p> <img src="https://skillicons.dev/icons?i=html,css,javascript" /> </p>
 <p> <img src="https://skillicons.dev/icons?i=mysql,git,github,linux" /> </p>
 <p> <img src="https://img.shields.io/badge/Web%20Security-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /> <img src="https://img.shields.io/badge/Ethical%20Hacking-111827?style=for-the-badge&logo=kalilinux&logoColor=557C94" /> <img src="https://img.shields.io/badge/Bug%20Bounty-111827?style=for-the-badge&logo=bugcrowd&logoColor=F26822" /> </p>
