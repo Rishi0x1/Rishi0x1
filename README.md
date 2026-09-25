@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Rishi Kumar Sah</h1>
+<h1 align="center">Hi, I'm Rishi Kumar Sah</h1>
 
 <p align="center">
   <strong>Cyber Security Enthusiast • Bug Bounty Hunter • Full Stack Developer</strong>
@@ -28,7 +28,6 @@ My main areas of interest are:
 I enjoy learning through **hands-on projects, security labs, CTFs, and experimentation**.  
 Currently, I'm focused on improving my development skills while building a strong foundation in cybersecurity.
 
-> **Build. Break. Secure. Learn.**
 
 ---
 
