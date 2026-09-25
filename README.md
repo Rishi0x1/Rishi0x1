@@ -9,17 +9,17 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **first-year college student** interested in understanding how technology works, how applications can be built, and how they can be secured.
 
 My main areas of interest are:
 
-- 🔐 **Cyber Security & Web Security**
-- 🐛 **Bug Bounty Hunting**
-- 💻 **Full Stack Development**
-- 🐧 **Linux & Networking**
-- 🧠 **Ethical Hacking**
+-  **Cyber Security & Web Security**
+-  **Bug Bounty Hunting**
+-  **Full Stack Development**
+-  **Linux & Networking**
+-  **Ethical Hacking**
 
 I enjoy learning through **hands-on projects, security labs, CTFs, and experimentation**.  
 Currently, I'm focused on improving my development skills while building a strong foundation in cybersecurity.
@@ -27,7 +27,7 @@ Currently, I'm focused on improving my development skills while building a stron
 
 ---
 
-## 🎯 What I'm Currently Learning
+##  What I'm Currently Learning
 
 <p> <img src="https://skillicons.dev/icons?i=c,java,python" />
  <img src="https://skillicons.dev/icons?i=html,css,javascript" /> 
